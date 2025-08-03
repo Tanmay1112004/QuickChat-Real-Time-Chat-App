@@ -7,10 +7,11 @@ A real-time modern messaging web app built using the **MERN Stack** and **Socket
 ---
 
 ### 📸 Preview
+![Signup](https://github.com/Tanmay1112004/QuickChat-Real-Time-Chat-App/blob/main/Screenshot%202025-06-20%20220015.png?raw=true)
 
-| Sign Up                        | Login                        | Chat Dashboard             |
-| ------------------------------ | ---------------------------- | -------------------------- |
-| ![Signup](./assets/signup.png) | ![Login](./assets/login.png) | ![Chat](./assets/chat.png) |
+![Chat Dashboard](https://github.com/Tanmay1112004/QuickChat-Real-Time-Chat-App/blob/main/Screenshot%202025-06-20%20220328.png?raw=true)
+
+![Profile Section](https://github.com/Tanmay1112004/QuickChat-Real-Time-Chat-App/blob/main/Screenshot%202025-06-20%20220450.png?raw=true)
 
 > Add your image files in an `assets/` folder in your repo and rename them like this. I used the ones you uploaded here.
 
